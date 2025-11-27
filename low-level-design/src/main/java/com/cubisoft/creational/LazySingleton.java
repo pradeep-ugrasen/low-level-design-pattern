@@ -1,4 +1,4 @@
-package com.gathipay.creational;
+package com.cubisoft.creational;
 
 public class LazySingleton {
 
